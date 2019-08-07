@@ -3,6 +3,7 @@ class Person
     @name = name
   end
   
-  def 
+  def breed 
+    
     
 end
